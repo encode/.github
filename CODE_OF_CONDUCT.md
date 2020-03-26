@@ -22,7 +22,7 @@ Members of the Python community are **open, considerate, and respectful**. Beha
 
 We take Code of Conduct violations seriously, and will act to ensure our spaces are welcoming, inclusive, and professional environments to communicate in.
 
-If you would like to raise a code of conduct report, the you may do so privately by email to tom@tomchristie.com
+If you need to raise a Code of Conduct report, the you may do so privately by email to tom@tomchristie.com.
 
 Reports will be treated confidentially.
 
