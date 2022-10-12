@@ -2,7 +2,7 @@
 
 If you believe you have identified a security issue with an Encode
 project, **do not open a public issue**. To responsibly report a
-security issue, please email security@encode.com. A security
+security issue, please email security@encode.io. A security
 team member will contact you acknowledging the report and how to
 continue.
 
